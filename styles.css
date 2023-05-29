@@ -20,7 +20,7 @@ body {
 .title {
 	padding: 3px;
 }
-.title h2{
+.title h1{
 	color: #000;
 	text-align: center;
 	text-transform: capitalize;
@@ -45,7 +45,7 @@ img {
 	background: white;
 	
 }
-h3, h7 {
+h2, h7 {
 	margin: 0;
 	text-transform: capitalize;
 }
